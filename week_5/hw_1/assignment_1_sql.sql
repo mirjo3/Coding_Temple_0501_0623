@@ -1,16 +1,3 @@
--- Creating a table on SQL for titanic data
-CREATE TABLE titanic (
-Survived int,
-Pclass int,
-Name text,
-Sex text,
-Age float,
-SiblingsSpousesAboard int,
-ParentsChildrenAboard int,
-Fare float
-)
-;
-
 --Question 1 Count how many rows you have.
 SELECT COUNT(*) FROM titanic
 
