@@ -1,0 +1,5 @@
+For the weekend project this week, your goal is to create a data pipeline that scrapes a source of data, cleans it and uploads to a database. After creating your pipeline, you will query data from the database and create a linear model.
+
+We used red wine data from https://archive.ics.uci.edu/ml/datasets/Wine+Quality
+
+Hypothesis: Is there a corrolation between pH levels and quality wine?
